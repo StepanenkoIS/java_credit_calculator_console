@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -jar target\calculator-1.0-SNAPSHOT.jar J:\devel\attestation\resources
