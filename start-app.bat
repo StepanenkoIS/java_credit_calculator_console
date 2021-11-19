@@ -1,1 +1,1 @@
-java -Dfile.encoding=UTF-8 -jar target\calculator-1.0-SNAPSHOT.jar J:\devel\attestation\resources
+java -Dfile.encoding=UTF-8 -jar target\calculator-1.0-SNAPSHOT.jar H:\devel\attestation\java_credit_calculator_console\src\main\resources
